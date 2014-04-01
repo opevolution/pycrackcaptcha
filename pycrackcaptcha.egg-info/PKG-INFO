@@ -1,0 +1,53 @@
+Metadata-Version: 1.1
+Name: pycrackcaptcha
+Version: 0.0.1
+Summary: Python Library to crack captchas
+Home-page: UNKNOWN
+Author: Alexandre Defendi - Evoluir Informática
+Author-email: alexandre@evoluirinformatica.com.br
+License: BSD
+Description: ========
+        PyCrackCaptcha
+        ========
+        
+        .. image:: 
+           :target: 
+        
+        .. _PyCrackCaptcha-synopsis:
+        
+        .. contents::
+            :local:
+        
+        .. _PyCrackCaptcha-implemented-bank:
+        
+        .. _PyCrackCaptcha-docs:
+        
+        .. _PyCrackCaptcha_sample.py: https://github.com/eduardocereto/pyboleto/blob/master/bin/pyboleto_sample.py
+        
+        .. _PyCrackCaptcha-installation:
+        
+        Installation
+        ============
+        
+        License
+        =======
+        
+        This software is licensed under the `New BSD License`. See the ``LICENSE``
+        file in the top distribution directory for the full license text.
+        
+        .. vim:tw=0:sw=4:et
+        
+Platform: any
+Classifier: Development Status :: 1 - Beta
+Classifier: Operating System :: OS Independent
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: Developers
+Classifier: Operating System :: OS Independent
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Natural Language :: Portuguese (Brazilian)
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 2.6
+Classifier: Topic :: Office/Business :: Financial
+Classifier: Topic :: Software Development :: Libraries :: Python Modules

@@ -1,0 +1,12 @@
+LICENSE
+MANIFEST.in
+README.rst
+setup.py
+pycrackcaptcha/__init__.py
+pycrackcaptcha/data.py
+pycrackcaptcha.egg-info/PKG-INFO
+pycrackcaptcha.egg-info/SOURCES.txt
+pycrackcaptcha.egg-info/dependency_links.txt
+pycrackcaptcha.egg-info/not-zip-safe
+pycrackcaptcha.egg-info/top_level.txt
+pycrackcaptcha/crack/__init__.py
